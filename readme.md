@@ -24,6 +24,10 @@ Write a function `add(numbers)` that takes a string of numbers separated by deli
 
 ---
 
+### Test results
+<img width="560" height="475" alt="image" src="https://github.com/user-attachments/assets/b080186c-04e6-4c16-a7a7-a9f1a2dbe194" />
+
+
 ## Getting Started
 
 ### Prerequisites
