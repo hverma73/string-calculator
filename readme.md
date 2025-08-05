@@ -35,7 +35,7 @@ Write a function `add(numbers)` that takes a string of numbers separated by deli
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/string-calculator-tdd.git
+git clone (https://github.com/hverma73/string-calculator.git)
 cd string-calculator-tdd
 
 # Install dependencies
